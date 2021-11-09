@@ -1,0 +1,6 @@
+support : windows
+unity Resolution : fullscreen window
+display monitoe :1920*1080
+
+
+close the program  : ALT + F4
